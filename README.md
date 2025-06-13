@@ -1,7 +1,7 @@
 ## Konnichiwa 👋
 
 
-<img src="https://github.com/user-attachments/assets/d6da7455-c9cf-43ae-9f9c-c53648f484f6" alt="スクリーンショット" width="450" />
+<img src="https://github.com/user-attachments/assets/d6da7455-c9cf-43ae-9f9c-c53648f484f6" alt="スクリーンショット"/>
 
 <!--
 **mnuma/mnuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
